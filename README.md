@@ -6,7 +6,7 @@ Ask questions here or in the support thread at https://twitter.com/RezaAliHussai
 This was compiled on MacOS Catalina 10.15.7 on a 2017 macbook pro, and tested using a Gigabyte AMD Radeon RX 580 egpu. I cannot compile it for Apple Silicon until I get a new macbook pro.
 
 To Use:
-  Download and extract to your desktop
+  Download from here (https://github.com/rezahussain/thinminerpro/releases/tag/2022_02_06) and extract to your desktop
   edit the config file to use an unmineable style "user" eg token:walletaddress.workername
   Then cd to the directory in Terminal and do ./thinminerpro
 
