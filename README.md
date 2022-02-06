@@ -17,6 +17,6 @@ To Use:
 
 This software is not fully ironed out, but I am presenting it to the community to get feedback while I work on it.
 
-This code uses:
-https://github.com/jedisct1/swift-sodium
-https://github.com/krzyzanowskim/CryptoSwift
+This code uses:<br>
+https://github.com/jedisct1/swift-sodium<br>
+https://github.com/krzyzanowskim/CryptoSwift<br>
