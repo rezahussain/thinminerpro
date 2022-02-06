@@ -10,7 +10,7 @@ To Use:
   edit the config file to use an unmineable style "user" eg token:walletaddress.workername
   Then cd to the directory in Terminal and do ./thinminerpro
 
-This software is not fully ironed out, but I am presenting it to the community to get feedback while I progress work on it.
+This software is not fully ironed out, but I am presenting it to the community to get feedback while I work on it.
 
 This code uses:
 https://github.com/jedisct1/swift-sodium
