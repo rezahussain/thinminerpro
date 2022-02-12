@@ -13,3 +13,5 @@ To Use:<br>
 
 This code uses:<br>
 https://github.com/jedisct1/swift-sodium<br>
+
+Like other miners this miner also implements a 1% donation fee
