@@ -6,7 +6,7 @@ You can use this with unmineable to mine any cryptocurrency on your Mac<br>
 Ask questions here or in the support thread at https://twitter.com/RezaAliHussain/status/1490443591017275401?s=20&t=9ylxqffK1JF5xpXmLzEjUA
 
 To Use:<br>
-1. Download from here if you are running on an intel mac (https://github.com/rezahussain/thinminerpro/releases/download/2022_02_20_intel/thinminerpro_intel.zip) and extract to your desktop<br>
+1. Download from here if you are running on an intel mac (https://github.com/rezahussain/thinminerpro/releases/download/2022_02_21_arm_relase/2022_02_21_arm_release.zip) and extract to your desktop<br>
 2. Download from here if you are running on an M1 Mac (https://github.com/rezahussain/thinminerpro/releases/download/2022_02_11_arm/thinminerpro.zip) and extract to your desktop<br>
 3. Edit the config.json file to use an unmineable style user eg token:walletaddress.workername<br>
 4. Then cd to the directory in Terminal and do ./thinminerpro<br>
