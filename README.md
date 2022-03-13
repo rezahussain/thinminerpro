@@ -7,7 +7,7 @@ Ask questions here or in the support thread at https://twitter.com/RezaAliHussai
 
 To Use:<br>
 1. Download from here if you are running on an intel mac (https://github.com/rezahussain/thinminerpro/releases/download/2022_02_21_arm_relase/2022_02_21_arm_release.zip) and extract to your desktop<br>
-2. Download from here if you are running on an M1 Mac (https://github.com/rezahussain/thinminerpro/releases/download/2022_02_11_arm/thinminerpro.zip) and extract to your desktop<br>
+2. Download from here if you are running on an Apple Silicon(eg M1, M1 Pro, M1 Max, M1 Ultra) Mac (https://github.com/rezahussain/thinminerpro/releases/download/2022_02_11_arm/thinminerpro.zip) and extract to your desktop<br>
 3. Edit the config.json file to use an unmineable style user eg token:walletaddress.workername<br>
 4. Then cd to the directory in Terminal and do ./thinminerpro<br>
 
