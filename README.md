@@ -2,6 +2,9 @@
 Thinminerpro is a cryptocurrency miner program for MacOS which implements the kawpow hashing algorithm and is written in Swift + Metal<br>
 <br>
 You can use this with unmineable to mine any cryptocurrency on your Mac<br>
+
+If you are completely new to crypto mining, read this post first(https://rezaalihussain.substack.com/p/mining-cryptocurrency-on-mac-os-using?s=w)
+<br>
 <br>
 Ask questions here or in the support thread at https://twitter.com/RezaAliHussain/status/1490443591017275401?s=20&t=9ylxqffK1JF5xpXmLzEjUA
 
