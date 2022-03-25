@@ -17,4 +17,5 @@ To Use:<br>
 This code uses:<br>
 https://github.com/jedisct1/swift-sodium<br>
 
-Like other miners this miner also implements a 1% donation fee
+Like other miners this miner also implements a 1% donation fee.<br>
+The Intel build I only tested to work with my RX580 egpu, so I am not sure if it works on other intel macs or not.
